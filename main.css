@@ -1,0 +1,35 @@
+body {
+    background-color: #040714;
+}
+
+h1 {
+    font-family: sans-serif;
+    font-size: 30px;
+    text-align: center;
+    margin: 20px;
+    font-weight: bolder;
+    color: white;
+}
+
+.divmainbackground {
+    padding: 30px;
+
+}
+
+img {
+    object-fit: cover;
+    flex-wrap: wrap;
+    padding: 5px;
+    border-radius: 5%;
+}
+
+p {
+    font-family: sans-serif;
+    text-align: center;
+    color: gray;
+}
+
+.footerdiv {
+    background-color: white;
+    padding: 20px;
+}
