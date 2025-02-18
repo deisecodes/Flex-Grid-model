@@ -2,7 +2,7 @@
 
 what's the next movie you're ready to watch to? 
 
-https://deisecodes.github.io/gridmodel/
+https://deisecodes.github.io/Flex-Grid-model/
 .
 .
 .
